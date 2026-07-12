@@ -1,7 +1,5 @@
 <div align="center">
-
-![Anime Banner](./huge_banner.gif)
-
+  <img src="https://raw.githubusercontent.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/master/assets/208593.gif" width="100%" style="border-radius: 15px;" />
 </div>
 
 <br/>
