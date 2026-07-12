@@ -46,11 +46,11 @@
 
 <div align="center">
   <a href="https://github.com/cripsoncarnet/ritual-dreamscape">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=cripsoncarnet&repo=ritual-dreamscape&theme=dracula&bg_color=0D1117&hide_border=true&icon_color=00F0FF&title_color=B48EF7&text_color=FFFFFF" width="45%" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=cripsoncarnet&repo=ritual-dreamscape&theme=dracula&bg_color=0D1117&hide_border=true&icon_color=00F0FF&title_color=B48EF7&text_color=FFFFFF&v=1" width="45%" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/cripsoncarnet/encrypted-research-vault">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=cripsoncarnet&repo=encrypted-research-vault&theme=dracula&bg_color=0D1117&hide_border=true&icon_color=00F0FF&title_color=B48EF7&text_color=FFFFFF" width="45%" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=cripsoncarnet&repo=encrypted-research-vault&theme=dracula&bg_color=0D1117&hide_border=true&icon_color=00F0FF&title_color=B48EF7&text_color=FFFFFF&v=1" width="45%" />
   </a>
 </div>
 
@@ -58,11 +58,11 @@
 
 <div align="center">
   <a href="https://github.com/cripsoncarnet/Siggy-Endless-Story">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=cripsoncarnet&repo=Siggy-Endless-Story&theme=dracula&bg_color=0D1117&hide_border=true&icon_color=00F0FF&title_color=B48EF7&text_color=FFFFFF" width="45%" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=cripsoncarnet&repo=Siggy-Endless-Story&theme=dracula&bg_color=0D1117&hide_border=true&icon_color=00F0FF&title_color=B48EF7&text_color=FFFFFF&v=1" width="45%" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/cripsoncarnet/ritual-execution-layer">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=cripsoncarnet&repo=ritual-execution-layer&theme=dracula&bg_color=0D1117&hide_border=true&icon_color=00F0FF&title_color=B48EF7&text_color=FFFFFF" width="45%" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=cripsoncarnet&repo=ritual-execution-layer&theme=dracula&bg_color=0D1117&hide_border=true&icon_color=00F0FF&title_color=B48EF7&text_color=FFFFFF&v=1" width="45%" />
   </a>
 </div>
 
