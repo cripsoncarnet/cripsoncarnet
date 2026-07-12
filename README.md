@@ -38,7 +38,39 @@
 
 <div align="center">
 
-![Typing Command Center](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F92672&center=true&vCenter=true&width=400&lines=✧+Live+Command+Center+✧)
+![Typing Projects](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F92672&center=true&vCenter=true&width=400&lines=✧+Featured+Projects+✧)
+
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/cripsoncarnet/ritual-dreamscape">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=cripsoncarnet&repo=ritual-dreamscape&theme=dracula&bg_color=0D1117&hide_border=true&icon_color=00F0FF&title_color=B48EF7&text_color=FFFFFF" width="45%" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/cripsoncarnet/encrypted-research-vault">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=cripsoncarnet&repo=encrypted-research-vault&theme=dracula&bg_color=0D1117&hide_border=true&icon_color=00F0FF&title_color=B48EF7&text_color=FFFFFF" width="45%" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/cripsoncarnet/Siggy-Endless-Story">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=cripsoncarnet&repo=Siggy-Endless-Story&theme=dracula&bg_color=0D1117&hide_border=true&icon_color=00F0FF&title_color=B48EF7&text_color=FFFFFF" width="45%" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/cripsoncarnet/ritual-execution-layer">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=cripsoncarnet&repo=ritual-execution-layer&theme=dracula&bg_color=0D1117&hide_border=true&icon_color=00F0FF&title_color=B48EF7&text_color=FFFFFF" width="45%" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+
+![Typing Command Center](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=400&lines=✧+Live+Command+Center+✧)
 
 </div>
 
