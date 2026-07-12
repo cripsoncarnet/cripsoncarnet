@@ -54,7 +54,7 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cripsoncarnet&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117)
+![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=cripsoncarnet&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117)
 
 </div>
 
